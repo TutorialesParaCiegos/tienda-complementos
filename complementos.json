@@ -1,19 +1,9 @@
 [
  {
-  "id": "Tutoriales_para_ciegos________Santa_Biblia_Reina_Valera_1909______",
-  "nombre": "🔥 ¡Santa Biblia Reina Valera 1909! 🔥",
-  "descripcion": "Plugin de lectura y audio para la Biblia Reina Valera 1909, versión 1.8. Esta herramienta permite la lectura mediante los motores de síntesis de voz del sistema o la reproducción de los audios narrados por Samuel Montoya para el Antiguo y Nuevo Testamento. La interfaz se organiza en tres pestañas principales, siendo la Biblia la sección central por defecto. La navegación se realiza mediante gestos táctiles de dos dedos: al deslizar hacia la derecha se accede a la visualización de texto, mientras que al deslizar hacia la izquierda se despliega el panel de ajustes y configuraciones. \n\nEsta nueva versión prioriza la fluidez de la interfaz, eliminando los retrasos al abrir el reproductor y mejorando el rendimiento general. Además, incluye mejoras en la lectura con síntesis de voz, permitiendo una enumeración más natural y configurable de los textos. El diseño garantiza un acceso rápido, fluido y sin interrupciones a las funciones de lectura y escucha.",
-  "autor": "Tutoriales para ciegos",
-  "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/🔥 ¡Santa Biblia Reina Valera 1909! 🔥.zip",
-  "fecha_actualizacion": 1785180063,
-  "descargas": 0,
-  "url_tutorial": "https:\/\/youtu.be\/PTLwQgDzqAA?si=d0251P8HD5Tchs6G"
- },
- {
   "id": "Tutoriales_para_ciegos_anuncio",
   "nombre": "_anuncio",
   "autor": "Tutoriales para ciegos",
   "anuncio": "Las versiones Reina Valera 1909 y 1960 están integradas en el catálogo de complementos. Esta actualización (versión 1.7) habilita la lectura mediante síntesis de voz y la reproducción de audios narrados por Samuel Montoya para la totalidad del Antiguo y Nuevo Testamento. \n\nSe ha optimizado significativamente la fluidez de la interfaz, logrando una carga mucho más rápida y una navegación sin retrasos ni bloqueos. La navegación se ejecuta mediante gestos táctiles: el desplazamiento de dos dedos hacia la izquierda o hacia la derecha permite alternar entre la pestaña de textos y la pestaña de configuraciones de escucha.\n\nEl tutorial detallado sobre el funcionamiento de estas versiones se encuentra disponible en el canal de YouTube Tutoriales para ciegos. La actualización se obtiene directamente desde este catálogo de complementos.\n",
-  "fecha_actualizacion": 1785180063
+  "fecha_actualizacion": 1785180524
  }
 ]
