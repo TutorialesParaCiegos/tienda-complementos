@@ -1,1 +1,14 @@
-
+{
+  "usuarios": [
+    {
+      "username": "carlos777",
+      "public_name": "Tutoriales para ciegos",
+      "can_notify": true
+    },
+    {
+      "username": "otro_usuario",
+      "public_name": "Mi Android Accesible",
+      "can_notify": false
+    }
+  ]
+}
