@@ -1,0 +1,78 @@
+function openTextCleaner()
+require "import"
+import "android.widget.*"
+import "android.view.*"
+import "android.content.Context"
+import "android.os.Vibrator"
+local linearLayout = LinearLayout(service)
+linearLayout.setOrientation(LinearLayout.VERTICAL)
+linearLayout.setLayoutParams(LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT))
+linearLayout.setBackgroundColor(0xFF000000)
+local titleTextView = TextView(service)
+titleTextView.text = "Limpiador de Texto"
+titleTextView.setTextSize(20)
+titleTextView.setTextColor(0xFFFFFFFF)
+titleTextView.gravity = Gravity.CENTER
+titleTextView.setPadding(16, 16, 16, 8)
+titleTextView.setBackgroundColor(0xFF333333)
+linearLayout.addView(titleTextView)
+local edit = EditText(service)
+edit.hint = "Pega aquí el texto que deseas limpiar"
+edit.setPadding(8, 4, 8, 4)
+edit.setTextColor(0xFFFFFFFF)
+edit.setBackgroundColor(0xFF000000)
+edit.requestFocus()
+linearLayout.addView(edit)
+local function limpiarTexto(contenido)
+local simbolosAEliminar = {"#", "'", "*", "@"}
+local textoLimpio = contenido
+for _, simbolo in ipairs(simbolosAEliminar) do
+local simboloEscapado = simbolo:gsub("([%^%$%(%)%%%.%[%]%*%+%-%?])", "%%%1")
+textoLimpio = textoLimpio:gsub(simboloEscapado, "")
+end
+local lineas = {}
+for linea in textoLimpio:gmatch("[^\r\n]+") do
+local trimmed = linea:match("^%s*(.-)%s*$")
+if trimmed ~= "" then
+table.insert(lineas, trimmed)
+end
+end
+local resultadoFinal = {}
+for _, linea in ipairs(lineas) do
+local lineaLimpia = linea:gsub("%s+", " ")
+table.insert(resultadoFinal, lineaLimpia)
+end
+return table.concat(resultadoFinal, "\n")
+end
+local dlg = LuaDialog(service)
+dlg.setView(linearLayout)
+dlg.setButton("Cancelar", function()
+dlg.dismiss()
+Toast.makeText(service, "Cambios descartados", Toast.LENGTH_SHORT).show()
+end)
+dlg.setButton2("Limpiar y Copiar al Portapapeles", function()
+local nuevoContenido = edit.text or ""
+if nuevoContenido == "" then
+Toast.makeText(service, "Por favor, ingresa primero el texto", Toast.LENGTH_SHORT).show()
+return
+end
+local contenidoLimpio = limpiarTexto(nuevoContenido)
+service.copy(contenidoLimpio)
+dlg.dismiss()
+Toast.makeText(service, "Texto limpio copiado al portapapeles. Suscríbete al canal Tutoriales para Ciegos.", Toast.LENGTH_LONG).show()
+end)
+local buttonCancelar = dlg.getButton(0)
+if buttonCancelar then
+buttonCancelar.setBackgroundColor(0xFF808080)
+buttonCancelar.setTextColor(0xFFFFFFFF)
+end
+local buttonLimpiar = dlg.getButton(1)
+if buttonLimpiar then
+buttonLimpiar.setBackgroundColor(0xFF808080)
+buttonLimpiar.setTextColor(0xFFFFFFFF)
+end
+dlg.show()
+return true
+end
+openTextCleaner()
+return true
