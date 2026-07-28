@@ -1,15 +1,5 @@
 [
  {
-  "id": "Tutoriales_para_ciegos_Configurar_Rotor",
-  "nombre": "Configurar Rotor",
-  "descripcion": "",
-  "autor": "Tutoriales para ciegos",
-  "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Configurar%20Rotor.txt",
-  "fecha_actualizacion": 1785212181,
-  "descargas": 0,
-  "url_tutorial": ""
- },
- {
   "id": "Tutoriales_para_ciegos_Limpiador_de_Texto",
   "nombre": "Limpiador de Texto",
   "descripcion": "",
