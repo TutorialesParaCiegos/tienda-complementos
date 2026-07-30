@@ -18,5 +18,15 @@
   "fecha_actualizacion": 1785349878,
   "descargas": 0,
   "url_tutorial": ""
+ },
+ {
+  "id": "Tutoriales_para_ciegos_Extractor_de_sonidos_de_aplicaciones_legendario",
+  "nombre": "Extractor de sonidos de aplicaciones legendario",
+  "descripcion": "Extractor de sonidos de aplicaciones legendario\n\nLa herramienta profesional para extraer y administrar archivos de sonido de aplicaciones y del sistema Android de manera eficiente y 100% accesible para Jieshuo.\n\nFuncionalidades Principales:\n• Actualizaciones automáticas: Ahora el complemento se actualizará automáticamente a partir de esta instalación. Recibirás todas las mejoras y correcciones directamente, sin necesidad de buscarlas manualmente.\n• Extracción de Sonidos: Extrae archivos de audio de aplicaciones instaladas y del sistema Android. Soporte para más de 80 formatos de audio diferentes (MP3, WAV, OGG, M4A, AAC, FLAC, etc.).\n• Gestión de Archivos: Compresión automática para facilitar el compartir. Visualiza, elimina y abre carpetas de destino fácilmente con control total sobre tus archivos extraídos.\n• Configuraciones Avanzadas: Control de vibración dinámico con barra deslizante, sistema de sonidos con efectos profesionales descargables y una interfaz intuitiva.\n\nDiseñado para desarrolladores, técnicos y usuarios avanzados que buscan extraer y administrar archivos de audio de sus aplicaciones Android de forma rápida, accesible y ahora con actualizaciones automáticas integradas.",
+  "autor": "Tutoriales para ciegos",
+  "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Extractor%20de%20sonidos%20de%20aplicaciones%20legendario.txt?t=1785434432",
+  "fecha_actualizacion": 1785434432,
+  "descargas": 0,
+  "url_tutorial": ""
  }
 ]
