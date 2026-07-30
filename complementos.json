@@ -18,5 +18,15 @@
   "fecha_actualizacion": 1785437500,
   "descargas": 0,
   "url_tutorial": ""
+ },
+ {
+  "id": "Tutoriales_para_ciegos_Santa_Biblia_Reina_Valera_1909_legendaria",
+  "nombre": "Santa Biblia Reina-Valera 1909 legendaria",
+  "descripcion": "",
+  "autor": "Tutoriales para ciegos",
+  "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Santa%20Biblia%20Reina-Valera%201909%20legendaria.txt?t=1785438090",
+  "fecha_actualizacion": 1785438090,
+  "descargas": 0,
+  "url_tutorial": ""
  }
 ]
