@@ -1,11 +1,11 @@
 [
  {
-  "id": "Tutoriales_para_ciegos_Extractor_de_sonidos_de_aplicaciones_legendario",
-  "nombre": "Extractor de sonidos de aplicaciones legendario",
-  "descripcion": "Extractor de sonidos de aplicaciones legendario\n\nLa herramienta profesional para extraer y administrar archivos de sonido de aplicaciones y del sistema Android de manera eficiente y 100% accesible para Jieshuo.\n\nFuncionalidades Principales:\n• Actualizaciones automáticas: Ahora el complemento se actualizará automáticamente a partir de esta instalación. Recibirás todas las mejoras y correcciones directamente, sin necesidad de buscarlas manualmente.\n• Extracción de Sonidos: Extrae archivos de audio de aplicaciones instaladas y del sistema Android. Soporte para más de 80 formatos de audio diferentes (MP3, WAV, OGG, M4A, AAC, FLAC, etc.).\n• Gestión de Archivos: Compresión automática para facilitar el compartir. Visualiza, elimina y abre carpetas de destino fácilmente con control total sobre tus archivos extraídos.\n• Configuraciones Avanzadas: Control de vibración dinámico con barra deslizante, sistema de sonidos con efectos profesionales descargables y una interfaz intuitiva.\n\nDiseñado para desarrolladores, técnicos y usuarios avanzados que buscan extraer y administrar archivos de audio de sus aplicaciones Android de forma rápida, accesible y ahora con actualizaciones automáticas integradas.",
+  "id": "Tutoriales_para_ciegos_Extractor_de_aplicaciones_legendario",
+  "nombre": "Extractor de aplicaciones legendario",
+  "descripcion": "Extractor de aplicaciones legendario\n\nLa herramienta definitiva para extraer, compartir y administrar las aplicaciones de tu dispositivo Android de forma profesional y 100% accesible para Jieshuo.\n\nFuncionalidades Principales:\n• Actualizaciones automáticas: A partir de esta versión, el complemento se actualizará solo. Mientras lo tengas instalado, recibirás las notificaciones de nuevas versiones directamente en la interfaz.\n• Extracción de APK: Extrae aplicaciones instaladas con un solo toque. Incluye soporte completo para aplicaciones modernas divididas (Split APKs), generando archivos .apks listos para instalar, identificando si son de 32 o 64 bits.\n• Compartir Fácil: Comparte tus APKs extraídos directamente desde la interfaz con cualquier aplicación.\n• Gestión de Archivos: Visualiza los APKs guardados en tu carpeta de descargas y elimina la carpeta completa cuando lo necesites con confirmación de seguridad.\n• Configuraciones Avanzadas: Control de vibración dinámico con barra deslizante y sistema de sonidos con efectos profesionales descargables para confirmaciones auditivas en cada acción.\n\nDiseñado específicamente para ser totalmente accesible con tu lector de pantalla y con soporte total para actualizaciones y regresiones automáticas.",
   "autor": "Tutoriales para ciegos",
-  "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Extractor%20de%20sonidos%20de%20aplicaciones%20legendario.txt?t=1785434432",
-  "fecha_actualizacion": 1785434432,
+  "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Extractor%20de%20aplicaciones%20legendario.txt?t=1785437500",
+  "fecha_actualizacion": 1785437500,
   "descargas": 0,
   "url_tutorial": ""
  },
