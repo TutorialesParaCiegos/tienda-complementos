@@ -72,6 +72,15 @@
    "fecha_actualizacion": 1786854975,
    "descargas": 0,
    "url_tutorial": ""
+  },
+  {
+   "id": "carlos777_Reproductor_de_m__sica_legendario",
+   "nombre": "Reproductor de música legendario",
+   "descripcion": "",
+   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Reproductor%20de%20m%C3%BAsica%20legendario.txt?t=1786859441",
+   "fecha_actualizacion": 1786859441,
+   "descargas": 0,
+   "url_tutorial": ""
   }
  ]
 }
