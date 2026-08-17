@@ -126,6 +126,15 @@
    "fecha_actualizacion": 1786938841,
    "descargas": 0,
    "url_tutorial": ""
+  },
+  {
+   "id": "carlos777_Expresiones_de_Acapela_TTS_Voices_legendario",
+   "nombre": "Expresiones de Acapela TTS Voices legendario",
+   "descripcion": "Expresiones de Acapela TTS Voices legendario. Permite acceder a más de 200 expresiones emocionales, efectos de sonido y frases cotidianas del motor Acapela TTS Voices de forma accesible, compatible con todas sus voces disponibles. Novedades: actualizaciones automáticas integradas (se actualiza solo) y sistema de verificación de ejecución para evitar errores. Recomendado descargar desde la Tienda de complementos. Soporte para regresiones en caso de fallos en futuras versiones. Mejor fluidez al navegar entre listas y buscar expresiones.",
+   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Expresiones%20de%20Acapela%20TTS%20Voices%20legendario.txt?t=1786942180",
+   "fecha_actualizacion": 1786942180,
+   "descargas": 0,
+   "url_tutorial": ""
   }
  ]
 }
