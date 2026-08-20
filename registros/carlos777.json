@@ -149,8 +149,8 @@
    "id": "carlos777_Dictado_ultra_avanzado_Groq_con_comando___settings",
    "nombre": "Dictado ultra avanzado Groq con comando - settings",
    "descripcion": "Dictado ultra avanzado Groq con comando - settings\n\nEsta herramienta permite la escritura, corrección y traducción de textos mediante voz utilizando la potencia de la inteligencia artificial de Groq. La interfaz se activa automáticamente al detectar un cuadro de edición o puede abrirse mediante comandos de voz como \"settings\", \"ajustes\" o \"configuraciones\". Permite añadir múltiples claves API de Groq para distribuir la carga de trabajo, personalizar instrucciones, crear tablas de sustitución y gestionar diferentes modos de dictado, consulta y traducción sin necesidad de utilizar el teclado físico.\n\nNovedades principales:\n• Cambio de nombre: Se ha renombrado oficialmente a \"Dictado ultra avanzado Groq con comando - settings\" para otorgarle un nombre más formal y unificado.\n• Actualizaciones automáticas integradas: A partir de esta versión, el complemento cuenta con un sistema de actualizaciones propio. Ya no necesitas buscar manualmente las nuevas versiones; el complemento te avisará y se actualizará por sí mismo.\n• Prioridad en la fluidez: Se han eliminado los retrasos al abrir el complemento y se ha mejorado el rendimiento general.\n• Mejoras en la interacción con la IA de Groq, permitiendo una corrección y respuesta más natural y configurable de los textos, garantizando un acceso rápido, fluido y sin interrupciones.",
-   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Dictado%20ultra%20avanzado%20Groq%20con%20comando%20-%20settings.txt?t=1787258164",
-   "fecha_actualizacion": 1787258164,
+   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Dictado%20ultra%20avanzado%20Groq%20con%20comando%20-%20settings.txt?t=1787260136",
+   "fecha_actualizacion": 1787260136,
    "descargas": 0,
    "url_tutorial": ""
   }
