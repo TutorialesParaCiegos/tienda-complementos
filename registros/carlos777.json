@@ -153,6 +153,15 @@
    "fecha_actualizacion": 1787427887,
    "descargas": 0,
    "url_tutorial": ""
+  },
+  {
+   "id": "carlos777_Abrir_para_editar_testeo",
+   "nombre": "Abrir para editar testeo",
+   "descripcion": "",
+   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Abrir%20para%20editar%20testeo.txt?t=1787517999",
+   "fecha_actualizacion": 1787517999,
+   "descargas": 0,
+   "url_tutorial": ""
   }
  ]
 }
