@@ -153,6 +153,15 @@
    "fecha_actualizacion": 1787427887,
    "descargas": 0,
    "url_tutorial": ""
+  },
+  {
+   "id": "carlos777_nuevo",
+   "nombre": "nuevo",
+   "descripcion": "nuevo",
+   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/nuevo.txt?t=1787585587",
+   "fecha_actualizacion": 1787585587,
+   "descargas": 0,
+   "url_tutorial": ""
   }
  ]
 }
