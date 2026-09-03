@@ -153,6 +153,15 @@
    "fecha_actualizacion": 1787427887,
    "descargas": 0,
    "url_tutorial": ""
+  },
+  {
+   "id": "carlos777_11_labs_text_to_audio_generator",
+   "nombre": "11 labs text to audio generator",
+   "descripcion": "",
+   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/11%20labs%20text%20to%20audio%20generator.txt?t=1788403867",
+   "fecha_actualizacion": 1788403867,
+   "descargas": 0,
+   "url_tutorial": ""
   }
  ]
 }
