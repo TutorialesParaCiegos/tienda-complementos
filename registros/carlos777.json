@@ -158,8 +158,8 @@
    "id": "carlos777_Dictado_Ultra_Avanzado_LLM7_con_Comando___Settings",
    "nombre": "Dictado Ultra Avanzado LLM7 con Comando - Settings",
    "descripcion": "Dictado Ultra Avanzado LLM7 con Comando - Settings\n\nEsta herramienta permite la escritura, corrección y traducción de textos mediante voz utilizando la potencia de la inteligencia artificial de LLM7. Los ajustes se abren automáticamente cuando no se detecta un cuadro de edición en pantalla, o puedes abrirlos en cualquier momento mediante comandos de voz como \"settings\", \"ajustes\" o \"configuraciones\". Permite añadir múltiples claves API de LLM7 para distribuir la carga de trabajo, personalizar instrucciones, crear tablas de sustitución y gestionar diferentes modos de dictado, consulta y traducción sin necesidad de utilizar el teclado físico.\nNovedades principales:\n• Actualizaciones automáticas integradas: A partir de esta versión, el complemento cuenta con un sistema de actualizaciones propio. Ya no necesitas buscar manualmente las nuevas versiones; el complemento te avisará y se actualizará por sí mismo.\n• Mejoras en la interacción con la IA de LLM7, permitiendo una corrección y respuesta más natural y configurable de los textos, garantizando un acceso rápido, fluido y sin interrupciones.\n",
-   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Dictado%20Ultra%20Avanzado%20LLM7%20con%20Comando%20-%20Settings.txt?t=1789047909",
-   "fecha_actualizacion": 1789047909,
+   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Dictado%20Ultra%20Avanzado%20LLM7%20con%20Comando%20-%20Settings.txt?t=1789056714",
+   "fecha_actualizacion": 1789056714,
    "descargas": 0,
    "url_tutorial": ""
   }
