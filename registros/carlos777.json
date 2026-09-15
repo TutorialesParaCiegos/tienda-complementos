@@ -180,6 +180,15 @@
    "fecha_actualizacion": 1789173474,
    "descargas": 0,
    "url_tutorial": ""
+  },
+  {
+   "id": "carlos777_TV_Cristiana_en_Vivo_legendaria",
+   "nombre": "TV Cristiana en Vivo legendaria",
+   "descripcion": "Esta herramienta permite ver canales de televisión cristiana directamente en tu dispositivo. Cuenta con un reproductor de video accesible y la capacidad de transmitir el contenido a tu TV utilizando aplicaciones como Web Video Caster o Castify. Todo esto manteniéndose siempre actualizado de forma automática y con la próxima incorporación de nuevas categorías, como películas y series cristianas.",
+   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/TV%20Cristiana%20en%20Vivo%20legendaria.txt?t=1789495081",
+   "fecha_actualizacion": 1789495081,
+   "descargas": 0,
+   "url_tutorial": ""
   }
  ]
 }
