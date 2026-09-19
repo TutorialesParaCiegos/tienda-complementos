@@ -140,8 +140,8 @@
    "id": "carlos777_Dictado_ultra_avanzado_Groq_con_comando___settings",
    "nombre": "Dictado ultra avanzado Groq con comando - settings",
    "descripcion": "Dictado ultra avanzado Groq con comando - settings\n\nEsta herramienta permite la escritura, corrección y traducción de textos mediante voz utilizando la potencia de la inteligencia artificial de Groq. Los ajustes se abren automáticamente cuando no se detecta un cuadro de edición en pantalla, o puedes abrirlos en cualquier momento mediante comandos de voz como \"settings\", \"ajustes\" o \"configuraciones\". Permite añadir múltiples claves API de Groq para distribuir la carga de trabajo, personalizar instrucciones, crear tablas de sustitución, silenciar los sonidos predeterminados del micrófono y activar sonidos alternativos, elegir si la traducción se realiza con inteligencia artificial o con Google, además de gestionar diferentes modos de dictado, consulta y traducción sin necesidad de utilizar el teclado físico.",
-   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Dictado%20ultra%20avanzado%20Groq%20con%20comando%20-%20settings.txt?t=1789828806",
-   "fecha_actualizacion": 1789828806,
+   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Dictado%20ultra%20avanzado%20Groq%20con%20comando%20-%20settings.txt?t=1789833921",
+   "fecha_actualizacion": 1789833921,
    "descargas": 0,
    "url_tutorial": ""
   },
