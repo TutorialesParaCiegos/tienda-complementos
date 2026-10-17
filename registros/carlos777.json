@@ -189,6 +189,15 @@
    "fecha_actualizacion": 1789495081,
    "descargas": 0,
    "url_tutorial": ""
+  },
+  {
+   "id": "carlos777_Music_World",
+   "nombre": "Music World",
+   "descripcion": "",
+   "url_github": "https:\/\/raw.githubusercontent.com\/TutorialesParaCiegos\/tienda-complementos\/main\/plugins\/Music%20World.txt?t=1792268481",
+   "fecha_actualizacion": 1792268481,
+   "descargas": 0,
+   "url_tutorial": ""
   }
  ]
 }
