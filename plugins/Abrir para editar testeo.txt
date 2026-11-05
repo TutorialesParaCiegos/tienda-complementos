@@ -1,0 +1,64 @@
+a=function()
+local rutaArchivo = "/storage/emulated/0/解说/Gestos/Personalizado/testeo"
+
+-- Función para leer el contenido del archivo
+function leerContenidoArchivo(ruta)
+    local archivo = io.open(ruta, "r") -- Abrir el archivo en modo lectura
+    if archivo then
+        local contenido = archivo:read("*a") -- Leer todo el contenido del archivo
+        archivo:close() -- Cerrar el archivo
+        return contenido
+    else
+        return nil
+    end
+end
+
+-- Obtener el contenido del archivo
+local contenidoArchivo = leerContenidoArchivo(rutaArchivo)
+
+if not contenidoArchivo then
+    -- Manejar el caso en el que no se pueda leer el archivo
+    print("No se pudo leer el contenido del archivo.")
+else
+    -- Crear cuadro de diálogo con el contenido del archivo en un cuadro de edición
+    require "import"
+    import "android.widget.*"
+    edit = EditText(service)
+    edit.text = contenidoArchivo
+edit.requestFocus() -- Enfocar el cuadro de edición
+
+    LuaDialog()
+        .setTitle("Contenido del Archivo")
+        .setView(edit)
+        .setButton("Guardar", function()
+            local nuevoContenido = edit.text
+            local archivo = io.open(rutaArchivo, "w") -- Abrir el archivo en modo escritura
+            if archivo then
+                archivo:write(nuevoContenido) -- Escribir el contenido modificado
+                archivo:close() -- Cerrar el archivo
+service.asyncSpeak(" guardado")
+            else
+                print("No se pudo abrir el archivo para guardar los cambios.")
+            end
+        end)
+        .show()
+
+end
+return true
+end
+b=function()
+service.execute("拆分编辑")
+return true
+end
+
+if service.click({
+{
+"%a$200",
+"%b$200",
+
+}
+})
+return true
+end
+
+return true
