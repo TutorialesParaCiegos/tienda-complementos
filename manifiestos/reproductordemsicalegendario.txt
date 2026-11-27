@@ -1,4 +1,4 @@
---[[1.2
+--[[1.3
 Cambio de nombre: Se ha renombrado oficialmente a "Reproductor de música legendario" para unificar y otorgar un nombre más formal.
 Actualizaciones automáticas: A partir de esta versión, el complemento cuenta con un sistema de actualización integrado que te avisará de nuevas versiones o regresiones automáticamente.
 Recepción de futuras versiones: Mientras tengas este complemento instalado, recibirás todas las nuevas actualizaciones y notificaciones de cambios directamente a través de él.
