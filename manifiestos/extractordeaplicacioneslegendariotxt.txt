@@ -1,7 +1,0 @@
---[[0.8
-• Cambio de nombre: Ahora se llama oficialmente "Extractor de aplicaciones legendario" (sin emojis y renombrado correctamente).
-• Actualizaciones automáticas: A partir de esta versión, el complemento se actualizará automáticamente. Ya no necesitas buscar manualmente las nuevas versiones.
-• Recepción de futuras versiones: Mientras tengas este complemento instalado, recibirás todas las nuevas actualizaciones y notificaciones de cambios directamente a través de él.
-• Soporte para regresiones: Si una actualización futura llega a tener errores, el sistema te avisará para regresar automáticamente a esta versión estable.
-• Mejora en nombres de archivo: Ahora los APK extraídos indican si son divididos y su arquitectura (32 o 64 bits).
-]]
