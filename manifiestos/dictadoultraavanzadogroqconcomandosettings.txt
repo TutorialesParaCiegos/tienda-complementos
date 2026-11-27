@@ -1,4 +1,4 @@
---[[2.1
+--[[2.2
 Se renombró oficialmente a "Dictado ultra avanzado Groq con comando - settings" para unificar y dar un nombre más formal.
 Ahora cuenta con actualizaciones automáticas integradas: te avisará de nuevas versiones y regresiones sin que tengas que buscarlas manualmente.
 Si una actualización futura llega a tener errores, el sistema te avisará para regresar automáticamente a esta versión estable.
