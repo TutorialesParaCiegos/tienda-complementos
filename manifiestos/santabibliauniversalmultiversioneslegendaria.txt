@@ -1,4 +1,4 @@
---[[1.2
+--[[1.3
 • Cambio de nombre: el complemento pasa a llamarse "Santa Biblia Universal Multiversiones Legendaria", porque ya no es una versión en sí misma: ahora eliges tú la versión.
 • Selector de versiones con las que ya descargaste y un Catálogo de versiones para descargar más.
 • 26 versiones en español, incluidas versiones católicas con libros deuterocanónicos.
