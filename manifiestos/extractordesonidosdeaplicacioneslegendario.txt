@@ -1,4 +1,4 @@
---[[0.8
+--[[0.9
 • Cambio de nombre: Ahora se llama oficialmente "Extractor de sonidos de aplicaciones legendario" (sin emojis y renombrado correctamente).
 • Actualizaciones automáticas: A partir de esta versión, el complemento se actualizará automáticamente. Ya no necesitas buscar manualmente las nuevas versiones.
 • Recepción de futuras versiones: Mientras tengas este complemento instalado, recibirás todas las nuevas actualizaciones y notificaciones de cambios directamente a través de él.
