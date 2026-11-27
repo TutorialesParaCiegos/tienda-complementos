@@ -1,4 +1,4 @@
---[[0.4
+--[[0.5
 Actualizaciones automáticas: Music World ahora detecta por sí solo cuando hay una versión nueva y te la instala con un solo botón, sin buscar archivos ni reinstalar nada.
 Recepción de futuras versiones: mientras tengas este complemento instalado, recibirás todas las nuevas actualizaciones y notificaciones de cambios directamente a través de él.
 Soporte para regresiones: si una actualización futura llega a tener errores, el sistema te avisará para regresar automáticamente a una versión estable.
