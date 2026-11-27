@@ -1,8 +1,0 @@
---[[0.9
-Cambios de nombre: Se ha renombrado oficialmente a "DESCARGADOR DE TIKTOK SIN MARCA DE AGUA legendario" para unificar y otorgar un nombre más formal.
-Actualizaciones automáticas integradas: A partir de esta versión, el complemento cuenta con un sistema de actualización integrado que te avisará de nuevas versiones o regresiones automáticamente.
-Recepción de futuras versiones: Mientras tengas este complemento instalado, recibirás todas las nuevas actualizaciones y notificaciones de cambios directamente a través de él.
-Soporte para regresiones: Si una actualización futura llega a tener errores, el sistema te avisará para regresar automáticamente a esta versión estable.
-Descargas masivas en segundo plano: Se optimizó el rendimiento para procesar múltiples enlaces al mismo tiempo, permitiendo descargar cientos de videos o audios mientras sigues navegando tu dispositivo sin interrupciones.
-Gestión de archivos mejorada: Al finalizar las descargas, la interfaz muestra los resultados automáticamente, ofreciendo opciones accesibles para renombrar, compartir el video completo o seccionarlo para subirlo como Estado de WhatsApp.
-]]
