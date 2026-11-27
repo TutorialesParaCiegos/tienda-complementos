@@ -1,0 +1,8 @@
+--[[1.1
+Cambio de nombre: Se ha renombrado oficialmente a "Grabar y enviar notas de voz en WhatsApp legendario" para unificar y otorgar un nombre más formal.
+Actualizaciones automáticas: A partir de esta versión, el complemento cuenta con un sistema de actualización integrado que te avisará de nuevas versiones o regresiones automáticamente.
+Recepción de futuras versiones: Mientras tengas este complemento instalado, recibirás todas las nuevas actualizaciones y notificaciones de cambios directamente a través de él.
+Soporte para regresiones: Si una actualización futura llega a tener errores, el sistema te avisará para regresar automáticamente a esta versión estable.
+Efectos de sonido y agitación: Se integró un sistema de descarga de paquetes de sonidos personalizables y la función de agitar para grabar y enviar de forma rápida.
+Mejoras de fluidez: Se optimizó el envío de notas de voz, el registro de cambios y el rendimiento general para no interrumpir la grabación.
+]]
