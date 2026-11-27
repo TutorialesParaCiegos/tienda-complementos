@@ -1,0 +1,8 @@
+--[[0.8
+Llega el Dictado ultra avanzado de Google legendario: un dictado que funciona como si tuviera inteligencia artificial, pero sin conexión a internet.
+Ya no tienes que dictar la puntuación: pone solo los puntos, las comas, los signos de pregunta y exclamación de apertura y cierre, y las mayúsculas, gracias a modelos locales inteligentes de Google que se descargan solos y trabajan dentro de tu teléfono.
+Agrega emojis de forma automática según las palabras y frases que dices, y puedes abrir la tabla de emojis con solo decir "emojis".
+Corrige y traduce el texto que ya tienes en el cuadro de edición, y lo reemplaza sin dejar restos del texto anterior.
+Es ilimitado: sin clave API, sin cuentas y sin límite de palabras, usando directamente el reconocimiento de voz de Google, incluso sin internet.
+Cuenta con actualizaciones automáticas integradas, y si falta algún archivo del complemento, se restaura solo.
+]]
