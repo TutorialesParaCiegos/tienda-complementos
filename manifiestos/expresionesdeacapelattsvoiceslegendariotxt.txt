@@ -1,7 +1,0 @@
---[[0.7
-Cambio de nombre: Se ha renombrado oficialmente a "Expresiones de Acapela TTS Voices legendario" para unificar y otorgar un nombre más formal.
-Actualizaciones automáticas: A partir de esta versión, el complemento cuenta con un sistema de actualización integrado que te avisará de nuevas versiones o regresiones automáticamente.
-Recepción de futuras versiones: Mientras tengas este complemento instalado, recibirás todas las nuevas actualizaciones y notificaciones de cambios directamente a través de él.
-Soporte para regresiones: Si una actualización futura llega a tener errores, el sistema te avisará para regresar automáticamente a esta versión estable.
-Mejoras de accesibilidad: Se optimizó el enfoque automático al agregar o eliminar expresiones de recientes, y la numeración de listas ahora es independiente.
-]]
