@@ -1,0 +1,5 @@
+--[[0.1
+Notas de cambio:
+- Se corrigió la hora de las notificaciones: ahora se muestra en la hora local de cada usuario, en lugar de mostrarse siempre en hora de Greenwich (UTC).
+- El botón "Borrar mi historial" ahora solo aparece si el usuario realmente ha publicado alguna notificación, ya no se muestra solo por tener el permiso.
+]]
