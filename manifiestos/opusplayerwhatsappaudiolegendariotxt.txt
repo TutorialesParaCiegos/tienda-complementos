@@ -1,8 +1,0 @@
---[[1.2
-Cambio de nombre: Se ha renombrado oficialmente a "Opus Player - WhatsApp Audio legendario" para unificar y otorgar un nombre más formal.
-Actualizaciones automáticas: A partir de esta versión, el complemento cuenta con un sistema de actualización integrado que te avisará de nuevas versiones o regresiones automáticamente.
-Recepción de futuras versiones: Mientras tengas este complemento instalado, recibirás todas las nuevas actualizaciones y notificaciones de cambios directamente a través de él.
-Soporte para regresiones: Si una actualización futura llega a tener errores, el sistema te avisará para regresar automáticamente a esta versión estable.
-Control por agitación: Se ha blindado la lógica del sensor para evitar listeners fantasma y doble vibración al reejecutar el complemento.
-Escaneo inteligente: Se optimizó el escaneo en segundo plano y la sincronización al reabrir la interfaz.
-]]
