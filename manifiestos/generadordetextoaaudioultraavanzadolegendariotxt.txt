@@ -1,0 +1,9 @@
+--[[0.8
+Cambios de nombre: Se ha renombrado oficialmente a "Generador de texto a audio ultra avanzado legendario" para unificar y otorgar un nombre más formal.
+Actualizaciones automáticas integradas: El complemento ahora se actualizará por sí mismo, avisando de nuevas versiones o regresiones automáticamente.
+Recepción de futuras versiones: Mientras tengas este complemento instalado, recibirás todas las nuevas actualizaciones y notificaciones de cambios directamente a través de él.
+Soporte para regresiones: Si una actualización futura llega a tener errores, el sistema te avisará para regresar automáticamente a esta versión estable.
+Renacimiento del complemento: Resucita de las cenizas con una conexión directa que ofrece 47 voces en español.
+Generación ilimitada: Se eliminaron las restricciones, permitiendo crear audios de cualquier longitud sin importar el texto.
+Diálogos con múltiples voces: Se optimizó la función para usar varias voces en un mismo texto, ideal para crear diálogos donde una voz dice una línea y otra voz dice otra.
+]]
