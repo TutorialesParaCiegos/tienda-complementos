@@ -1,8 +1,0 @@
---[[0.9
-Cambios de nombre: Se ha renombrado oficialmente a "TV Cristiana en Vivo legendaria" para unificar y otorgar un nombre más formal.
-Actualizaciones automáticas integradas: El complemento ahora se actualizará por sí mismo, avisando de nuevas versiones o regresiones automáticamente.
-Recepción de futuras versiones: Mientras tengas este complemento instalado, recibirás todas las nuevas actualizaciones y notificaciones de cambios directamente a través de él.
-Soporte para regresiones: Si una actualización futura llega a tener errores, el sistema te avisará para regresar automáticamente a esta versión estable.
-Integración de transmisiones: Se optimizó la función para enviar el contenido a la TV, con soporte para elegir entre Web Video Caster, Castify o ambas aplicaciones.
-Categorías futuras: Se preparan nuevas secciones, incluyendo películas y series cristianas que se añadirán próximamente.
-]]
