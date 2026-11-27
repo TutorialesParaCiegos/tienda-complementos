@@ -1,0 +1,8 @@
+--[[2.0
+Se renombró oficialmente a "Dictado Ultra Avanzado LLM7 con Comando - Settings" para unificar y dar un nombre más formal.
+Ahora cuenta con actualizaciones automáticas integradas: te avisará de nuevas versiones y regresiones sin que tengas que buscarlas manualmente.
+Si una actualización futura llega a tener errores, el sistema te avisará para regresar automáticamente a esta versión estable.
+Se eliminaron los retrasos al abrir el dictado y se mejoró el rendimiento general de la interfaz.
+Se optimizó la interacción con la IA de LLM7 para respuestas más naturales y rápidas, sin envolver el texto en símbolos innecesarios.
+Ahora puedes silenciar los sonidos predeterminados del micrófono y activar sonidos alternativos a tu gusto.
+]]
