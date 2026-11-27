@@ -1,9 +1,0 @@
---[[1.0
-Cambio de nombre: Se ha renombrado oficialmente a "Administrador de aplicaciones del usuario y sistema legendario" para unificar y otorgar un nombre más formal.
-Actualizaciones automáticas: A partir de esta versión, el complemento cuenta con un sistema de actualización integrado que te avisará de nuevas versiones o regresiones automáticamente.
-Recepción de futuras versiones: Mientras tengas este complemento instalado, recibirás todas las nuevas actualizaciones y notificaciones de cambios directamente a través de él.
-Soporte para regresiones: Si una actualización futura llega a tener errores, el sistema te avisará para regresar automáticamente a esta versión estable.
-Mejoras de accesibilidad: Se optimizó el modo selección múltiple; al dar pulsación larga sobre una aplicación, el lector de pantalla enfocará automáticamente su casilla de verificación.
-Control de vibración: Se añadió una barra deslizante en las configuraciones para ajustar exactamente el porcentaje de fuerza de la vibración.
-Extracción de aplicaciones: Soporte completo para aplicaciones divididas (split APK) generando archivos APKS, y optimización general en la extracción de sonidos del sistema.
-]]
