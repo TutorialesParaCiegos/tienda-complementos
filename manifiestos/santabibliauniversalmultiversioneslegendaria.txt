@@ -1,0 +1,8 @@
+--[[1.2
+• Cambio de nombre: el complemento pasa a llamarse "Santa Biblia Universal Multiversiones Legendaria", porque ya no es una versión en sí misma: ahora eliges tú la versión.
+• Selector de versiones con las que ya descargaste y un Catálogo de versiones para descargar más.
+• 26 versiones en español, incluidas versiones católicas con libros deuterocanónicos.
+• Búsqueda por cita o por palabras, con dictado por voz, y texto diario opcional.
+• Los audios ahora se cargan completos antes de reproducirse, por lo que al iniciar un capítulo oirás "Cargando audio" unos segundos.
+• Mejoras en la lectura con síntesis de voz: el control de tono y velocidad vuelve a aparecer con cualquier motor.
+]]
