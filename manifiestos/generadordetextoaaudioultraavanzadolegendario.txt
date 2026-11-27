@@ -1,4 +1,4 @@
---[[0.8
+--[[0.9
 Cambios de nombre: Se ha renombrado oficialmente a "Generador de texto a audio ultra avanzado legendario" para unificar y otorgar un nombre más formal.
 Actualizaciones automáticas integradas: El complemento ahora se actualizará por sí mismo, avisando de nuevas versiones o regresiones automáticamente.
 Recepción de futuras versiones: Mientras tengas este complemento instalado, recibirás todas las nuevas actualizaciones y notificaciones de cambios directamente a través de él.
